@@ -1,3 +1,4 @@
+![vitepress](https://github.com/palmiak/hello-world-vitepress/assets/2342458/2dec8d85-6bf8-436d-86d4-b339ea6c1f8a)
 # Kinsta - Hello World - Static Site With Vitepress
 
 An example of how to deploy a static site built with Vitepress on Kinsta Hosting.
