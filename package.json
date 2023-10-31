@@ -3,6 +3,7 @@
   "scripts": {
     "dev": "vitepress dev docs",
     "build": "vitepress build docs",
+    "docs:build": "vitepress build docs",
     "preview": "vitepress preview docs",
     "start": "serve docs/.vitepress/dist"
   },
