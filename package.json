@@ -1,11 +1,11 @@
 {
   "name": "hello-world-vitepress",
   "scripts": {
-    "dev": "vitepress dev docs",
-    "build": "vitepress build docs",
-    "docs:build": "vitepress build docs",
-    "preview": "vitepress preview docs",
-    "start": "serve docs/.vitepress/dist"
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "docs:build": "vitepress build",
+    "preview": "vitepress preview",
+    "start": "serve .vitepress/dist"
   },
   "devDependencies": {
     "vitepress": "^1.0.0-rc.21"
