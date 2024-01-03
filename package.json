@@ -5,12 +5,9 @@
     "build": "vitepress build",
     "docs:build": "vitepress build",
     "preview": "vitepress preview",
-    "start": "serve .vitepress/dist"
+    "start": "npx -y serve .vitepress/dist"
   },
   "devDependencies": {
-    "vitepress": "^1.0.0-rc.21"
-  },
-  "dependencies": {
-    "serve": "^14.2.1"
+    "vitepress": "^1.0.0-rc.35"
   }
 }

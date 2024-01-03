@@ -1,4 +1,3 @@
-![vitepress](https://github.com/kinsta/hello-world-vitepress/assets/2342458/b3f5d77c-5b17-4623-97db-f7e5e03af204)
 # Kinsta - Hello World - Static Site With Vitepress
 
 An example of how to deploy a static site built with Vitepress on Kinsta Hosting.
